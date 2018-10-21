@@ -78,7 +78,7 @@
 				
 				
 									
-					<img src="../images/question3/individual.jpg" alt="Avatar" style="width:500px;height:600px;">
+					<img src="../images/question3/individual.jpg" alt="Avatar" style="width:400px;height:500px;">
 					
 					<p>You like to work by yourself, directed by yourself or by the
 						direction of someone else. This includes some 
@@ -96,7 +96,7 @@
 
 				
 					
-					<img src="../images/question3/teamwork.jpg" alt="Avatar" style="width:500px;height:600px;">
+					<img src="../images/question3/teamwork.jpg" alt="Avatar" style="width:400px;height:500px;">
 					
 			<p>You like to work with a team. Examples of this are software development and engineering projects.</p>
 				
