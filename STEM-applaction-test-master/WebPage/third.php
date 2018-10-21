@@ -73,7 +73,7 @@
 		
 		<div class="container">
 			
-			<div class="split Left">
+			<div class="split left">
 				<h1><span>Individual</span></h1>
 				
 				
@@ -91,7 +91,7 @@
 				</form>					
 				
 			</div>
-			<div class="split Right">
+			<div class="split right">
 				<h1><span>Team work</span></h1>
 
 				
