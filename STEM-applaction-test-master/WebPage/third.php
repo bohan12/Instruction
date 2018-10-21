@@ -75,19 +75,17 @@
 			
 			<div class="split Left">
 				<h1><span>Individual</span></h1>
-				<div id="individualdesc">
-					Hover the mouse on the image for more information.
-				</div>
-				<div class="container1">
+				
+				
 									
 					<img src="../images/question3/individual.jpg" alt="Avatar" class="image">
-					<div class="overlay">
-					<div class="text">You like to work by yourself, directed by yourself or by the
+					
+					<p>You like to work by yourself, directed by yourself or by the
 						direction of someone else. This includes some 
-						research projects and theory work.</div>
+						research projects and theory work.</p>
 				
-				</div>
-				</div>
+				
+				
 				<form action="fourth.php" onSubmit="JavaScript:SetIndividual()">
 				<button type="submit" formaction="fourth.php">Choose this option</button>
 				</form>					
@@ -95,17 +93,16 @@
 			</div>
 			<div class="split Right">
 				<h1><span>Team work</span></h1>
-				<div id="teamworkdesc">
-					Hover the mouse on the image for more information.
-				</div>
-				<div class="container1">
+
+				
 					
 					<img src="../images/question3/teamwork.jpg" alt="Avatar" class="image">
-					<div class="overlay">
-					<div class="text">You like to work with a team. Examples of this are software development and engineering projects.</div>
+					
+			<p>You like to work with a team. Examples of this are software development and engineering projects.</p>
 				
-				</div>
-				</div>
+				
+				
+				
 				<form action="fourth.php" onSubmit="JavaScript:SetTeamwork()">
 				<button type="submit" formaction="fourth.php">Choose this option</button>
 				</form>					
