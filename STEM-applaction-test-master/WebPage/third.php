@@ -106,7 +106,7 @@
 				<form action="fourth.php" onSubmit="JavaScript:SetTeamwork()">
 				<button type="submit" formaction="fourth.php">Choose this option</button>
 				</form>					
-				
+			</div>	
 			</div>
 		</body>
 	</div>
